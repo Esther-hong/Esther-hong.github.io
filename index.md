@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+赵利红
+女 / 25岁 / 中共团员 / 汉族
+电话：17835395946
+邮箱：17835395946@163.com
+地址：山西省吕梁市
 
-You can use the [editor on GitHub](https://github.com/Esther-hong/Esther-hong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Esther-hong/Esther-hong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+教育背景：2019.09-2022.06   新疆大学   计算机技术   硕士
+         主修：机器学习、人工智能应用及原理、高等计算机网络、自然语言处理、高级软件工程、云计算技术等。
+         2014.09-2018.06   运城学院   计算机技术   本科
+         主修：数据结构、操作系统、计算机组成原理、高等数学、概率论、软件工程、数据库原理及应用、计算机网络等。
+         
+工程实践：天池DataWhale / 项目练习 / 2020.02
+         二手车交易：1.通过数据科学以及机器学习深度学习的办法来进行建模得到。
+                    2.主要应用xgb、catboost，以及pandas、numpy、matplotlib、seabon、sklearn、keras等数据挖掘常用库或者框架来进行数据挖掘任务。
+                    3.通过EDA来挖掘数据的联系和自我熟悉数据。
+         山西太原思软 / 实习生 / 2016.03-04
+         承担工作：1.Web前端开发之小米官网的实现(html、css、javascript)；
+                  2.前端技术：前端美工、浏览器的兼容、CSS、HTML传统技术与浏览器以及概念性较强的交互设计，艺术性较强的视觉设计等；
+                  3.撰写相关技术报告、框架、解决方案等工作报告。
+                  
+掌握技能：1.熟悉C/C++,java，python等计算机语言，熟悉基本数据结构和相关算法
+         2.熟练使用linux基本命令，了解linux基本原理，熟悉hadoop的基本使用
+         3.CET4,良好的听说写能力，具有较强的学习能力和阅读英文资料的能力
+         
+证书荣誉：全校女子冬季长跑一等奖、校级奖学金二等奖、院级Web设计大赛优秀奖、院级奖学金二等奖、国家大学英语四级、普通话二级乙等 
+自我评价：我性格开朗、勤奋好学，吃苦耐劳，具有很强的团队精神和协调能力。在为人方面，我诚实善良、开朗自信，对工作积极认真，勇于承担责任，希望您给我这个机会，我有充足的信心在短时间内胜任工作。
